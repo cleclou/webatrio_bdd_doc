@@ -1,0 +1,5 @@
+AutoEvaluation:
+
+-Réalisation d'une RestAPi en achitecture n-tiers composé de webatri-rest et wabatrio
+--> Problème de configuration bloquant pour le démérrage de l'application.
+Ce problème m'a bloqué durant 30 minute m'empéchant de tester, de faire les TU et la javadoc.
